@@ -38,11 +38,11 @@ export default function App() {
   const [letterIndices, setLetterIndices] = useState([0, 1, 2, 3]); // indices into letterCycle - starts as "myko"
   
   const [bloks, setBloks] = useState<BlokData[]>([
-    { id: 1, text: 'ABCDEG', progress: 0.1, speed: 0.00005 },
-    { id: 2, text: 'ABD789', progress: 0.3, speed: 0.00006 },
-    { id: 3, text: '12DEFG', progress: 0.5, speed: 0.000055 },
-    { id: 4, text: '123456', progress: 0.7, speed: 0.000065 },
-    { id: 5, text: 'LINKS', progress: 0.85, speed: 0.00007 },
+    { id: 1, text: 'SOOON', progress: 0.1, speed: 0.00005 },
+    { id: 2, text: 'NOOOS', progress: 0.3, speed: 0.00006 },
+    { id: 3, text: '1SOO1', progress: 0.5, speed: 0.000055 },
+    { id: 4, text: 'OONSO', progress: 0.7, speed: 0.000065 },
+    { id: 5, text: '$?links', progress: 0.85, speed: 0.00007 },
   ]);
 
   useEffect(() => {
