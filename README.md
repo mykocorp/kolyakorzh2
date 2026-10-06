@@ -1,11 +1,8 @@
-
-  # ABD789
-
-  This is a code bundle for ABD789. The original project is available at https://www.figma.com/design/PWriT0k5zlDNTmUh8205vs/ABD789.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+{
+it's dark and cold;
+you are stranded in the forest;
+the only sound you hear is some strange, unknown to you humming;
+you lost your way and your map;
+your matches are running out;
+}
+what do you want to do next?
